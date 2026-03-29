@@ -7,7 +7,7 @@ Effective communication is a core pillar of digital literacy. In this task, I pr
 I have drafted two formal emails to demonstrate proper tone, structure, and etiquette:
 1. **Email 1:** A formal request to a professor for an assignment deadline extension.
 2. **Email 2:** An expression of professional interest to an internship coordinator for a summer opportunity.
-* **Files:** Both drafts are saved as documents in the `task-4-email-etiquette/` folder.
+* **Files:** Both drafts are saved as word documents in the `task-4-email-etiquette/` folder.
 
 ### 🛠️ Part B: Social Media Checklist
 I developed a "Do's and Don'ts" guide for college students to ensure a responsible and positive digital footprint.
