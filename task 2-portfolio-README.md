@@ -7,7 +7,7 @@ A professional digital presence is essential for modern academic and career succ
 ### 🛠️ Platforms Established
   * **GitHub Profile:** Created a professional README with my name, branch, and learning goals.
   * **LinkedIn:** Updated my education section with my current degree and expected graduation year.
-  * **[Platform 3]:** Set up a profile on  Kaggle7 to engage with the global tech community.
+  * **Kaggle:** Set up a profile on  Kaggle to engage with the global tech community.
 
 ### 📝 Reflection Summary
 * **Platform Utility:** These platforms allow me to showcase my projects, network with professionals, and track my learning progress over the next four years.
